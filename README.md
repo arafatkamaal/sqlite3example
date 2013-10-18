@@ -1,7 +1,7 @@
 sqlite3example
 ==============
 
-A sample example of using Sqlite3 in C
+A sample example of using Sqlite3 in C, Gathered and written while learning from tidbits of knowledge assembled from the internet.
 
 
 License : Artistic License, GNU General Public License
